@@ -1,0 +1,12 @@
+{
+  "name": "martian-robot",
+  "version": "1.0.0",
+  "description": "program that determines each sequence of robot positions and reports the final position of the robot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dario Goutto",
+  "license": "ISC"
+}
